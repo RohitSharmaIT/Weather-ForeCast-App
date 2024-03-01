@@ -76,7 +76,7 @@ This project was created by **Rohit Sharma**. If you have any feedback or sugges
 
 ## Feedback
 
-If you have any feedback, please reach out to us at 28rohitsharmait@gmail.com
+If you have any feedback, please reach out to me at 28rohitsharmait@gmail.com
 
 
 ## 🚀 About Me
