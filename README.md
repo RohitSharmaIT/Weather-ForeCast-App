@@ -1,5 +1,5 @@
 # Weather Forecasting Web-App
-This simple web application provides users with essential weather information such as temperature, wind speed, cloud cover, and humidity. The project is built using HTML, CSS, and JavaScript, and it leverages the OpenWeather API to fetch real-time weather data.
+This simple web application provides users with essential weather information such as temperature, wind speed, cloudiness, and humidity. The project is built using HTML, CSS, and JavaScript, and it leverages the OpenWeather API to fetch real-time weather data.
 
 ## Demo
 
@@ -40,7 +40,7 @@ Thank you all!
 
 **Text Editor:** Used VS-Code for writing and editing the code for the web app.
 
-**API:** Used for fetch weather Information such as temperature, wind speed, cloudiness, and humidity.
+**API:** Used for fetching weather Information such as temperature, wind speed, cloudiness, and humidity.
 
 **Git:** Used for version control and collaboration during the development process.
 
