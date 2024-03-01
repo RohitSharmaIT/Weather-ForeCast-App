@@ -3,9 +3,9 @@ This simple web application provides users with essential weather information su
 
 ## Demo
 
-Check out the Live Project to see it in action and let me know what you think! 🤔
+Check out the Live Project to see it in action and let me know what you think!🤔
 
-Live Link:- (https://rohitsharmait.github.io/Weather-ForeCast-App/)
+Live Link:- https://rohitsharmait.github.io/Weather-ForeCast-App/
 ## Features
 
 - Real-Time Information: Stay updated with real-time weather data to ensure accurate and timely information.
